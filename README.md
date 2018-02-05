@@ -2,7 +2,7 @@
 
 Iron Mike was developped during the december 2017 Ludum Dare.
 
-The team was composed of two developpers (me and dourches-m), and one graphist. It was our first time making a jam on Unity and the result isn't too bad!
+The team was composed of two developpers (me and dourches-m), and one graphist (Tartiflexe). It was our first time making a jam on Unity and the result isn't too bad!
 
 # Controls
 
