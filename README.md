@@ -19,3 +19,7 @@ The team was composed of two developpers (me and dourches-m), and one graphist. 
 Simply run the executable file at the root of the repository, grab your controller and enjoy ;)
 
 The goal of the game is to push the ennemies outside of the ring and make the highest score.
+
+# Download Link
+
+https://tartiflette.itch.io/ironmike
